@@ -11,6 +11,7 @@ header {
     background-color: white;
     background-image: url(my-website/images/ELFA1949DSC01315_TP_V.jpg);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
 }
 
