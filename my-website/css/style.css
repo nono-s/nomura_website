@@ -9,7 +9,7 @@ header {
     width: 100%;
     height: 200px;
     /* background-color: white; */
-    background-image: url(my-website/images/ELFA1949DSC01315_TP_V.jpg);
+    background-image: url(../images/ELFA1949DSC01315_TP_V.jpg);
     background-position: center;
     background-size: cover;
 }
